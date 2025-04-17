@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7d9b9968-2a13-4a0f-88d9-2fc8caeaade3" alt="Convert Doc to Markdown API" />
-</p>
-
 Uma API desenvolvida em **Python** para converter documentos (como PDF, DOCX, TXT, etc) em Markdown utilizando a biblioteca **Docling**. A aplicação é construída com **Flask** e organizada em arquitetura limpa, separando responsabilidades em camadas como controller, view, validador e tratamento de erro.
 
 ---
