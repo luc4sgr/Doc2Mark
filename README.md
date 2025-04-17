@@ -5,7 +5,9 @@ A powerful Python API for converting various document formats (PDF, DOCX, TXT, e
 
 
 [![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+
+![image](https://github.com/user-attachments/assets/03fea66f-0e06-48e4-8e04-e6261e216b4c)
 
 ### ✨ Features
 
@@ -290,19 +292,3 @@ pytest
 # Execute com relatório de cobertura
 pytest --cov=src
 ```
-
-### 🤝 Contribuindo
-
-1. Faça um fork do repositório
-2. Crie sua branch de recurso (`git checkout -b recurso/funcionalidade-incrivel`)
-3. Faça commit de suas alterações (`git commit -m 'Adiciona funcionalidade incrível'`)
-4. Faça push para a branch (`git push origin recurso/funcionalidade-incrivel`)
-5. Abra um Pull Request
-
-### 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-### 📚 Documentação Adicional
-
-Para informações mais detalhadas sobre a API e seus componentes, consulte a seção [wiki](https://github.com/seuusuario/doc2mark/wiki).
