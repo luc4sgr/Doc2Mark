@@ -3,9 +3,7 @@
 
 A powerful Python API for converting various document formats (PDF, DOCX, TXT, etc.) to clean Markdown. Built with Flask and Docling library using a clean architecture approach.
 
-
 [![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-
 
 ![image](https://github.com/user-attachments/assets/03fea66f-0e06-48e4-8e04-e6261e216b4c)
 
