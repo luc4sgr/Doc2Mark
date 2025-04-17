@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  convert_doc_api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: convert_doc_api
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+    # environment:
+    #   - FLASK_ENV=development
