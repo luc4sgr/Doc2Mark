@@ -4,7 +4,8 @@ EN [Read in English](./README.md)
 Uma poderosa API em Python para converter vários formatos de documentos (PDF, DOCX, TXT, etc.) para Markdown limpo. Construída com Flask e a biblioteca Docling usando uma abordagem de arquitetura limpa.
 
 [![Versão Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Licença](https://img.shields.io/badge/licença-MIT-green.svg)](LICENSE)
+
+![image](https://github.com/user-attachments/assets/03fea66f-0e06-48e4-8e04-e6261e216b4c)
 
 ### ✨ Funcionalidades
 
